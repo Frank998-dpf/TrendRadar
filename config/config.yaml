@@ -97,8 +97,8 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-    - id: "ithome"
+  - id: "ithome"
     name: "IT之家"
-    - id: "sspai"
+  - id: "sspai"
     name: "少数派"
     
